@@ -1,0 +1,92 @@
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmNovaCarreira.resources
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\2°Unidade\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmNovoProfissional.resources
+D:\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+D:\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+D:\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmNovoProfissional.resources
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+D:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+G:\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+G:\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+G:\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmNovoProfissional.resources
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+G:\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmNovoProfissional.resources
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+D:\Projeto-versão1.1\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmNovoProfissional.resources
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+D:\Projeto_versão1.1\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+D:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmProfissional.resources
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmProfissional.resources
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+G:\Projeto-versão1.2\Projeto\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb
+D:\Programação\teste\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe.config
+D:\Programação\teste\CRUD_CREA\Cadastro\bin\Debug\Cadastro.exe
+D:\Programação\teste\CRUD_CREA\Cadastro\bin\Debug\Cadastro.pdb
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.formCadastro.resources
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmConsultarCarreira.resources
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.frmProfissional.resources
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.exe
+D:\Programação\teste\CRUD_CREA\Cadastro\obj\Debug\Cadastro.pdb

@@ -1,0 +1,6 @@
+1;Engenharia El�trica
+3;Engenharia Producao
+5;Geografia
+6;Engenharia de Minas
+7;Engenharia Civil
+8;Análise de Sistemas

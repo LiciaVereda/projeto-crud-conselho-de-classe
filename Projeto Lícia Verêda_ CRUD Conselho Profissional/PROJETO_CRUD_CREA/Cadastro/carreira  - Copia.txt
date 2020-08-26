@@ -1,0 +1,6 @@
+1;Engenharia El�trica
+2;Engenharia Civil
+3;Engenharia Mec�nica
+4;Geografia
+5;Geologia
+6;Matemática
